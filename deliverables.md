@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deliverables
-permalink: /deliverables
+permalink: deliverables.html
 ---
 
 Deliverables
