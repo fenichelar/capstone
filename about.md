@@ -14,3 +14,7 @@ link: true
 |Eric Hom|New Product Development<br>Prototype Testing<br>R&D Engineering<br>CAD Modeling|![Eric Hom](images/eric.jpg){: .portrait }|
 |Josh Lieberman|Mechanical Design<br>Industrial Design<br>Mechanical Failure Analysis<br>Material Sourcing<br>Business Background<br>Patent Experience|![Josh Lieberman](images/josh.jpg){: .portrait }|
 |Shaun Orr|Mechanical Design<br>Rapid Prototyping<br>CAD Modeling<br>Project Management<br>Production Line Design<br>Microcontrollers|![Shaun Orr](images/shaun.jpg){: .portrait }|
+
+### Celebrating
+
+![Celebrating](images/celebrating.jpeg)
