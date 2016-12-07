@@ -9,8 +9,8 @@ Team Members
 
 |Name|Description|Photo|
 |:--:|:---------:|:---:|
-|Erin Brennan|?|![Erin Brennan](images/erin.jpg)|
-|Alec Fenichel|?|![Alec Fenichel](images/alec.jpg)|
-|Eric Hom|?|![Eric Hom](images/eric.jpg)|
-|Josh Lieberman|?|![Josh Lieberman](images/josh.jpg)|
-|Shaun Orr|?|![Shaun Orr](images/shaun.jpg)|
+|Erin Brennan|?|![Erin Brennan](images/erin.jpg){: .portrait }|
+|Alec Fenichel|?|![Alec Fenichel](images/alec.jpg){: .portrait }|
+|Eric Hom|?|![Eric Hom](images/eric.jpg){: .portrait }|
+|Josh Lieberman|?|![Josh Lieberman](images/josh.jpg){: .portrait }|
+|Shaun Orr|?|![Shaun Orr](images/shaun.jpg){: .portrait }|
