@@ -5,7 +5,7 @@ permalink: about.html
 link: true
 ---
 
-Team Members
+### Team Members
 
 |Name|Skills|Photo|
 |:--:|:---------:|:---:|
