@@ -4,6 +4,11 @@ title: Deliverables
 permalink: deliverables.html
 link: true
 ---
+## CAD
+
+[Download](CAD.zip)
+
+## Weekly
 
 |Week|Presentation|Report|
 |:--:|:---------:|:---:|
