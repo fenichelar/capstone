@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Home
-permalink: index.html
+permalink: /
 ---
 
-![Team](images/team.jpg)
+![Team](/images/team.jpg)
 
 Suez Advanced Water Solutions/Utility Service Company Inc. is a water systems company that provides water services to 7.5 million people in North America. In order to provide quality service, Suez maintains over 6,000 tanks by sandblasting and repainting over 100 water tanks per year. Suez aims to improve their current sandblasting process by utilizing an autonomous sandblasting robot arm to clean the inside surface of the water tanks. In order to use the sandblasting robot arm, Suez requires a platform that remains stable while the arm is sandblasting. Additionally, the platform will need to be both vertically and horizontally mobile so the floor, walls and ceiling of the ground water tank can be sandblasted. 
 

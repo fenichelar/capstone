@@ -1,26 +1,26 @@
 ---
 layout: page
 title: Photos
-permalink: photos.html
+permalink: /photos
 link: true
 ---
 
 ### Robotic Arm
 
-![Robotic Arm](images/arm.png)
+![Robotic Arm](/images/arm.png)
 
 ### Platform
 
-![Platform](images/platform.png)
+![Platform](/images/platform.png)
 
 ### Outrigger
 
-![Outrigger](images/outrigger.png)
+![Outrigger](/images/outrigger.png)
 
 ### Final Assembly
 
-![Final Assembly](images/assembly.png)
+![Final Assembly](/images/assembly.png)
 
 ### Mockup
 
-![Mockup](images/mockup.png)
+![Mockup](/images/mockup.png)
